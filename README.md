@@ -1,6 +1,7 @@
 <h2>API para gestão de Checkout orientado a eventos</h2>
 
 API de gestão de pagamentos: https://github.com/dev-afigueredo/ecommerce-payment-api
+Frontend: https://github.com/dev-afigueredo/ecommerce-checkout-frontend
 
 São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido:
 
